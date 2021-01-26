@@ -8,5 +8,7 @@ get started by entering these commands!
 
 
 git clone https://github.com/Matthewklop/EasyCan
+
 cd Easycan
+
 chmod +x easyCan.sh
