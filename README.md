@@ -12,3 +12,8 @@ git clone https://github.com/Matthewklop/EasyCan
 cd Easycan
 
 chmod +x easyCan.sh
+
+./easyCan.sh
+
+
+Thats it! If you to stop press "Ctrl+C"
