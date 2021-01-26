@@ -16,4 +16,4 @@ chmod +x easyCan.sh
 ./easyCan.sh
 
 
-Thats it! If you to stop press "Ctrl+C"
+Thats it! If you to stop press "Ctrl+C".
