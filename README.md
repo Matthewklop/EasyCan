@@ -11,7 +11,7 @@ get started by entering these commands!
 
 git clone https://github.com/Matthewklop/EasyCan
 
-cd Easycan
+cd easyCan
 
 chmod +x easyCan.sh
 
