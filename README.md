@@ -5,7 +5,7 @@ to change ID replace 2E4 in code
 
 Get started by entering these commands!
 --------------------------------------
-  ```java
+  ```bash
 git clone https://github.com/Matthewklop/EasyCan
 cd easyCan
 chmod +x easyCan.sh
