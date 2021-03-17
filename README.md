@@ -4,6 +4,7 @@ for now this program only sends Canbus
 to change ID replace 2E4 in code
 
 Get started by entering these commands!
+
 After install start editing file called "easyCan.sh"
 Don't be afraid there are a lot of comments for every line!
 --------------------------------------
