@@ -17,13 +17,13 @@ Don't be afraid there are a lot of comments for every line!
 
 Thats it! If you want to stop press "Ctrl+C".
 
-  ```java
+  ```bash
 git clone https://github.com/Matthewklop/EasyCan
-#^ this part downloads this script ^
+#this part downloads this script ^
 cd easyCan
-# ^ this part opened the downloaded folder ^
+#this part opened the downloaded folder ^
 chmod +x easyCan.sh
-# ^ this tells your linux to trust this script ^
+# this tells your linux to trust this script ^
 ./easyCan.sh
-# ^ this is how you run the file ^
+#this is how you run the file ^
 ```
